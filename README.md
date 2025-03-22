@@ -6,7 +6,7 @@ The model offers potential for revolutionizing the support of children's mental 
 ![image](https://github.com/user-attachments/assets/535a7def-31fc-4a42-adf7-86a00b78495a)
 
 
-## Frontend/Backend
+## Web/Server
 <img width="948" alt="image" src="https://github.com/user-attachments/assets/58c04dac-b58d-4a8e-bc79-5d7bb9b1de9c" />
 
 ## Final Results
